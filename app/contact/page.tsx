@@ -72,7 +72,7 @@ export default function ContactPage() {
           >
             <h1 className="heading-1 text-charcoal mb-4">Get in Touch</h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              We're here to help you find the perfect piece or answer any questions
+              We&apos;re here to help you find the perfect piece or answer any questions
             </p>
           </motion.div>
         </div>
@@ -184,7 +184,7 @@ export default function ContactPage() {
                     animate={{ opacity: 1, y: 0 }}
                     className="p-4 bg-green-50 text-green-800 rounded-sm"
                   >
-                    Thank you for your message! We'll get back to you within 24 hours.
+                    Thank you for your message! We&apos;ll get back to you within 24 hours.
                   </motion.div>
                 )}
 
