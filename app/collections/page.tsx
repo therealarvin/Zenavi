@@ -143,7 +143,7 @@ export default function CollectionsPage() {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <h2 className="heading-3 text-charcoal mb-4">Can't Find What You're Looking For?</h2>
+            <h2 className="heading-3 text-charcoal mb-4">Can&apos;t Find What You&apos;re Looking For?</h2>
             <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
               Our expert consultants are here to help you find or create the perfect piece
             </p>

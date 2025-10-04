@@ -160,13 +160,13 @@ export default function AboutPage() {
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
             >
-              <h2 className="heading-3 mb-8 text-charcoal">Founder's Note</h2>
+              <h2 className="heading-3 mb-8 text-charcoal">Founders&apos; Note</h2>
               <blockquote className="text-xl font-serif text-gray-700 italic leading-relaxed mb-6">
-                "Every piece we create tells a story. Your story. From the moment you first hold
+                &quot;Every piece we create tells a story. Your story. From the moment you first hold
                 one of our creations, it becomes part of your journey—marking milestones,
                 celebrating love, and creating memories that last forever. This is why we pour
                 our hearts into every detail, ensuring that each piece is worthy of the moments
-                it will witness."
+                it will witness.&quot;
               </blockquote>
               <div className="flex items-center justify-center space-x-4">
                 <div className="w-16 h-16 bg-gray-200 rounded-full" />
